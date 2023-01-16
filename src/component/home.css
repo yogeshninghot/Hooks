@@ -1,0 +1,31 @@
+.container{
+    align-items: center;
+    margin: 60px auto;
+    height: 300px;
+    width:500px;
+    border: 2px solid black;
+    text-align: center;
+    border-radius: 18px;
+    background-color: rgb(206, 248, 122);
+    
+}
+.card{
+    margin: 50px auto;
+    
+}
+.btn{
+    background-color: black;
+    color: white;
+    padding: 16px 40px;
+    margin: 20px 10px;
+    border-radius: 18px;
+}
+.btn:hover{
+    border:2px solid tomato;
+    background-color: white;
+    color: black;
+}
+p{
+    font-size: 25px;
+    font-weight: bolder;
+}
